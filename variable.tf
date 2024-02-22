@@ -1,4 +1,4 @@
-variable "vpc_id" {
+variable "vpcId" {
   type = string
-  default = "172.31.0.0/16"
+  default = "vpc-0049682c1b010a070"
 }
